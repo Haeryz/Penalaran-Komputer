@@ -1,0 +1,7 @@
+Model,Accuracy
+Improved SVM,0.6
+Improved NB,0.3
+Ensemble,0.3
+Improved RoBERTa,0.3
+Improved IndoBERT,0.2
+Logistic Regression,0.1
